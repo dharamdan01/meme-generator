@@ -34,7 +34,7 @@ A fun and fully responsive **Meme Generator Web App** built with **HTML, CSS, an
 
 ## 🌐 Live Demo  
 
-👉 [Click here to try the Meme Generator](https://dharamdan01.github.io/meme-generator/)  
+👉 [Click here to try the Meme Generator](https://meme-generator-javascript.netlify.app/)  
 
 
 ---
